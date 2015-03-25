@@ -8,7 +8,7 @@ public class Git_class
 		 Git_class obj=new Git_class();
 	   System.out.println("The numbers given are a="+obj.a+" b="+obj.b);
 	   obj.c=obj.a+obj.b;
-	   System.out.println("The result of the sum is c = "+obj.c);
+	   System.out.println("The result of the sum is c = "+obj.c +" answer");
 	}
 
 }
